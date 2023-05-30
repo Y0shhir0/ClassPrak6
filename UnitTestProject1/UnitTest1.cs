@@ -41,7 +41,7 @@ namespace UnitTestProject1
         }
 
 
-        [TestMethod]
+        [TestMethod] 
         public void Zadanie2TestMehod1()
         {
             int[,] matrix = new int[8, 8];

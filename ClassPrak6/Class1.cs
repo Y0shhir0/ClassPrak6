@@ -71,7 +71,7 @@ namespace ClassPrak6
                     }
                 }
                 countOfTwosArray[j] = ravn2;
-            }
+            } 
             return countOfTwosArray;
         }
 
